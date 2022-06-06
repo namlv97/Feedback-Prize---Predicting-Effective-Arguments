@@ -5,3 +5,5 @@ This git contains notebook with three main phrases
 - Phrase 2: Load and train with Deberta + concat 4 last layers + K-fold
 - Phrase 3: Submission
 - Phrase 4: This phrase only is used for crash GPU case
+
+Note: Because of the required internet mode is offline in the notebook -> cant use nltk library to preprocess dataset
